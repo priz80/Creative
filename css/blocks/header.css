@@ -1,0 +1,112 @@
+.hero {
+    width: 1600px;
+    height: 1059px;
+    background-color: FFFFFF;
+}
+
+.header {
+    width: 1561px;
+    height: 50px;
+    padding-left: 25px;
+    padding-top: 16px;
+    display: flex;
+}
+
+.logo ul {
+    width: 153px;
+    height: 28px;
+    margin-right: 456px;
+    padding-top: 8px;
+    font-weight: bold;
+    font-size: 24px;
+    font-family: 'rubik';
+    letter-spacing: -0.28px;
+}
+
+.header-nav ul {
+    width: 333px;
+    margin-top: 12px;
+    display: flex;
+    font-size: 15px;
+    font-weight: bold;
+    line-height: 26px;
+    justify-content: space-between;
+}
+    
+.button ul {
+    width: 247px;
+    height: 50px;
+    border-radius: 8px;
+    margin-left: 372px;
+    background-color: #473BF0;
+    font-weight: bold;
+    font-size: 17px;
+    line-height: 20.55px;
+    letter-spacing: -0.5px;
+    color: #FFFFFF;
+    padding-top: 13px;
+    text-align: center;
+}
+
+img {
+    margin-top: 140px;
+    margin-left: 628px;
+}
+
+.content {
+    width: 773px;
+    height: 338px;
+    margin-top: 79px;
+    margin-left: 414px;
+    text-align: center;
+}
+
+.red-text {
+    font-family: Gilroy;
+    font-size: 13px;
+    font-weight: bold;
+    line-height: 15.72px;
+    letter-spacing: 1.625px;
+    text-align: center;
+    color: #F64B4B;
+}
+
+.hi-text {
+    font-size: 60px;
+    font-weight: bold;
+    letter-spacing: -2px;
+    text-align: center;
+    margin-top: 22px;
+}
+
+.text {
+    margin-top: 30px;
+    letter-spacing: -0.2px;
+    line-height: 29px;
+}
+
+.button-main ul {
+    width: 254px;
+    height: 59px;
+    border-radius: 8px;
+    margin-top: 36px;
+    margin-left: 260px;
+    background-color: #473BF0;
+    font-weight: bold;
+    font-size: 17px;
+    letter-spacing: -0.6px;
+    color: #FFFFFF;
+    padding-top: 19px;
+    text-align: center;
+}
+
+.text-end {
+    font-family: Gilroy;
+    font-size: 13px;
+    font-weight: 700;
+    line-height: 15.72px;
+    letter-spacing: 1.63px;
+    text-align: center;
+    margin-top: 27px;
+    margin-left: 22px;
+}

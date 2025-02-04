@@ -1,0 +1,29 @@
+.footer {
+    width: 1112px;
+    height: 28px;
+    margin-top: 44px;
+    margin-left: 245px;
+    margin-bottom: 43px;
+    background-color: FFFFFF;
+    display: flex;
+    }
+
+.logo-footer ul{
+    width: 154px;
+    height: 28px;
+    font-weight: bold;
+    font-size: 24px;
+    font-family: 'rubik';
+    letter-spacing: -0.28px;
+}
+
+.footer-nav ul{
+    width: 369px;
+    height: 26px;
+    margin-left: 589px;
+    display: flex;
+    font-size: 15px;
+    font-weight: bold;
+    line-height: 26px;
+    justify-content: space-between;
+}
